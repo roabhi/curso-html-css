@@ -1,5 +1,11 @@
 # Preparativos
 
+## Guía de Instalación de Visual Studio Code
+
+Visual Studio Code es un editor de código fuente ligero pero potente, que incluye soporte para depuración, control de versiones, y una amplia variedad de extensiones.
+
+Para instalar la version apropiada de Visual Studio Code en tu máquina visita [su página web](https://code.visualstudio.com/)
+
 ## Instalando Git
 
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código fuente a lo largo del tiempo, colaborar con otros y gestionar versiones de sus proyectos de manera eficiente.
