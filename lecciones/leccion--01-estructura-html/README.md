@@ -67,6 +67,10 @@ En resumen, HTML es una herramienta crucial para el desarrollo web, y entenderlo
 
 ## Actividad Práctica
 
+Crea un nuevo archivo `index.html` dentro de una nueva carpeta `entrega` en este directorio y rellena el contenido de los párrafos, la lista y el enlace utilizando la captura de pantalla que se proporciona como guía.
+
+Cuando hayas creado tu documento, busca el botón **Go Live** en la parte inferior derecha de Visual Studio Code y observa cómo tu archivo va cambiando a medida que añades nuevas etiquetas.
+
 Empieza agregando al `<body>` de tu página las siguientes etiquetas `<h1>` y `<h2>` con sus respectivas etiquetas `<p>`
 
 ### Agrega la etiqueta `<h1>`:
@@ -95,10 +99,6 @@ web. Permite estructurar el contenido en la web.".
 ```
 
 ### Completa el resto del documento:
-
-Crea un nuevo archivo `index.html` dentro de la carpeta `entrega` y rellena el contenido de los párrafos, la lista y el enlace utilizando la captura de pantalla que se proporciona como guía.
-
-Cuando hayas creado tu documento, busca el botón **Go Live** en la parte inferior derecha de Visual Studio Code y observa cómo tu archivo va cambiando a medida que añades nuevas etiquetas.
 
 Usa la imagen proporcionada como referencia. **Busca en `recursos/referencias.md`** las etiquetas que te faltan por añadir si tienes dudas de como se escriben.
 
