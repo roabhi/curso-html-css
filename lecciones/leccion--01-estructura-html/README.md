@@ -65,7 +65,7 @@ En resumen, HTML es una herramienta crucial para el desarrollo web, y entenderlo
 </html>
 ```
 
-### Actividad Práctica
+## Actividad Práctica
 
 Empieza agregando al `<body>` de tu página las siguientes etiquetas `<h1>` y `<h2>` con sus respectivas etiquetas `<p>`
 
