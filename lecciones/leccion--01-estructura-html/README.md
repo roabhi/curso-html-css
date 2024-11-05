@@ -81,6 +81,11 @@ Incluye una etiqueta `<h1>` con el texto "Bienvenido a la Lección 1".
 </p>
 ```
 
+### Agrega la etiqueta `<h2>`:
+
+Incluye una etiqueta `<h1>` con el texto " HTML (Lenguaje de Marcado de Hipertexto) es el estándar para crear páginas
+web. Permite estructurar el contenido en la web.".
+
 ```html
 <h2>¿Qué es HTML?</h2>
 <p>
