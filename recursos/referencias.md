@@ -54,11 +54,11 @@ Selectores CSS básicos
 ## Pseudo selectores CSS básicos
 
 | **Selector**     | **Descripción**                                                                        |
-| ---------------- | -------------------------------------------------------------------------------------- | --- |
+| ---------------- | -------------------------------------------------------------------------------------- |
 | `:hover`         | Selecciona un elemento cuando el cursor está sobre él.                                 |
 | `:nth-child(n)`  | Selecciona el enésimo elemento hijo de su tipo dentro de un elemento padre.            |
 | `::before`       | Inserta contenido antes del contenido de un elemento (se usa con `content` en CSS).    |
 | `::after`        | Inserta contenido después del contenido de un elemento (también se usa con `content`). |
 | `:first-child`   | Selecciona el primer hijo de un elemento padre.                                        |
 | `:last-child`    | Selecciona el último hijo de un elemento padre.                                        |
-| `:not(selector)` | Selecciona todos los elementos que no coinciden con el selector dado.                  |     |
+| `:not(selector)` | Selecciona todos los elementos que no coinciden con el selector dado.                  |
